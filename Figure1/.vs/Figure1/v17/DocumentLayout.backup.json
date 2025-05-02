@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\frmrectangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmrectangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FrmSquare.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmSquare.cs",
               "RelativeDocumentMoniker": "Figure1\\FrmSquare.cs",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmSquare.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmSquare.cs",
               "RelativeDocumentMoniker": "Figure1\\FrmSquare.cs",
@@ -105,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmRectangle.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmRectangle.cs",
               "RelativeDocumentMoniker": "Figure1\\FrmRectangle.cs",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmRectangle.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmRectangle.Designer.cs",
               "RelativeDocumentMoniker": "Figure1\\FrmRectangle.Designer.cs",

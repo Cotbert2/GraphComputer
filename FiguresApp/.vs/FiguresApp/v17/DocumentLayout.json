@@ -1,0 +1,766 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtriangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtriangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtrapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmrohboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmrohboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmrohboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmrohboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmelipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmelipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmelipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmelipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmdiamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmdiamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmdiamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmdiamond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtrapezoid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtrapezoid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtrapeze.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtrapeze.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmstar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmstar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmsquare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmsquare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmcircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmcircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmsemicircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmsemicircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmrohboid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmrohboid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmrectangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmrectangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmelipse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmelipse.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmdiamond.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmdiamond.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmdeltoid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmdeltoid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmtemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmtemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\frmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\frmhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTrapeze.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapeze.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTrapeze.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapeze.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmTrapeze.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:01:01.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTrapeze.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapeze.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTrapeze.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapeze.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTrapeze.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:49:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTrapezoid.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapezoid.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmTrapezoid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:01:28.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapezoid.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTrapezoid.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:49:29.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTriangle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTriangle.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTriangle.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTriangle.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTriangle.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:41:49.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTriangle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTriangle.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmTriangle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:16:23.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTriangle.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTriangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:37:46.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmStar.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmStar.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmStar.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmStar.cs",
+              "RelativeToolTip": "FiguresApp\\FrmStar.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:35:59.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmStar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmStar.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmStar.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmStar.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmStar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:59:57.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmSquare.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSquare.cs",
+              "RelativeToolTip": "FiguresApp\\FrmSquare.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:48:50.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmSquare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSquare.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmSquare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:59:00.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSemicircle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSemicircle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmSemicircle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSemicircle.cs",
+              "RelativeToolTip": "FiguresApp\\FrmSemicircle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:49:48.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmSemicircle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSemicircle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmSemicircle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSemicircle.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmSemicircle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:47:24.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmRohboid.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRohboid.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmRohboid.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRohboid.cs",
+              "RelativeToolTip": "FiguresApp\\FrmRohboid.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:47:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmRohboid.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRohboid.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmRohboid.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRohboid.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmRohboid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:00:38.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRectangle.cs",
+              "RelativeToolTip": "FiguresApp\\FrmRectangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:49:05.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmRectangle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRectangle.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmRectangle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:59:11.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmHome.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:22:44.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmElipse.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmElipse.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmElipse.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmElipse.cs",
+              "RelativeToolTip": "FiguresApp\\FrmElipse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:45:21.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmElipse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmElipse.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmElipse.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmElipse.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmElipse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:59:31.794Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmDiamond.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDiamond.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmDiamond.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDiamond.cs",
+              "RelativeToolTip": "FiguresApp\\FrmDiamond.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:45:04.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmDiamond.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDiamond.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmDiamond.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDiamond.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmDiamond.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:59:48.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmDeltoid.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDeltoid.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmDeltoid.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDeltoid.cs",
+              "RelativeToolTip": "FiguresApp\\FrmDeltoid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:44:31.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmDeltoid.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDeltoid.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmDeltoid.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDeltoid.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmDeltoid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:00:10.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmCircle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmCircle.cs",
+              "RelativeToolTip": "FiguresApp\\FrmCircle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:49:13.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmCircle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmCircle.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmCircle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:59:22.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmTrapezoid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapezoid.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTrapezoid.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapezoid.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTrapezoid.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:49:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmTrapeze.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapeze.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTrapeze.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTrapeze.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTrapeze.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:49:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmSquare.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSquare.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmSquare.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSquare.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmSquare.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:15:45.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmStar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmStar.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmStar.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmStar.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmStar.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:32:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmRohboid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRohboid.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmRohboid.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRohboid.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmRohboid.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T07:17:11.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmRectangle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRectangle.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmRectangle.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmRectangle.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmRectangle.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:45:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmSemicircle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSemicircle.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmSemicircle.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmSemicircle.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmSemicircle.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:48:45.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmElipse.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmElipse.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmElipse.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmElipse.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmElipse.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:45:26.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmDiamond.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDiamond.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmDiamond.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDiamond.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmDiamond.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:45:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmDeltoid.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDeltoid.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmDeltoid.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmDeltoid.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmDeltoid.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAMBdwAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T19:44:33.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTemplate.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTemplate.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTemplate.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTemplate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:45:21.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmTemplate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTemplate.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTemplate.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTemplate.cs [Design]",
+              "RelativeToolTip": "FiguresApp\\FrmTemplate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:37:30.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmHome.cs",
+              "RelativeToolTip": "FiguresApp\\FrmHome.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADgv0MAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:10:26.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmTemplate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTemplate.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmTemplate.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmTemplate.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmTemplate.Designer.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAASwPYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:44:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\Program.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\Program.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\Program.cs",
+              "RelativeToolTip": "FiguresApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T04:35:40.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FrmHome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmHome.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmHome.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmHome.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmHome.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAASwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:17:40.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "4f820884-7176-4af7-92dd-941fb6b1c99b",
+        "Display": 2,
+        "X": -5,
+        "Y": 0,
+        "Width": 910,
+        "Height": 781,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmCircle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmCircle.Designer.cs",
+              "RelativeDocumentMoniker": "FiguresApp\\FrmCircle.Designer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\FrmCircle.Designer.cs",
+              "RelativeToolTip": "FiguresApp\\FrmCircle.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:46:44.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
