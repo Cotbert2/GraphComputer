@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FiguresApp.graphs.domain;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -115,6 +116,18 @@ namespace FiguresApp
         private void ExitProgram(object sender, FormClosingEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void btnPickColor_Click(object sender, EventArgs e)
+        {
+
+            using (ColorDialog colorDialog = new ColorDialog())
+            {
+                if (colorDialog.ShowDialog() == DialogResult.OK)
+                {
+                    Settings.Instance.color = colorDialog.Color;
+                }
+            }
         }
     }
 }

@@ -46,28 +46,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmCircle.cs">
+    <Compile Include="graphs\domain\GraphAC.cs" />
+    <Compile Include="graphs\domain\Settings.cs" />
+    <Compile Include="graphs\ParallelogramGraph.cs" />
+    <Compile Include="views\FrmCircle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmCircle.Designer.cs">
+    <Compile Include="views\FrmCircle.Designer.cs">
       <DependentUpon>FrmCircle.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmDeltoid.cs">
+    <Compile Include="views\FrmDeltoid.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmDeltoid.Designer.cs">
+    <Compile Include="views\FrmDeltoid.Designer.cs">
       <DependentUpon>FrmDeltoid.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmDiamond.cs">
+    <Compile Include="views\FrmDiamond.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmDiamond.Designer.cs">
+    <Compile Include="views\FrmDiamond.Designer.cs">
       <DependentUpon>FrmDiamond.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmElipse.cs">
+    <Compile Include="views\FrmElipse.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmElipse.Designer.cs">
+    <Compile Include="views\FrmElipse.Designer.cs">
       <DependentUpon>FrmElipse.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmHome.cs">
@@ -76,102 +79,102 @@
     <Compile Include="FrmHome.Designer.cs">
       <DependentUpon>FrmHome.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmRectangle.cs">
+    <Compile Include="views\FrmRectangle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmRectangle.Designer.cs">
+    <Compile Include="views\FrmRectangle.Designer.cs">
       <DependentUpon>FrmRectangle.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmRohboid.cs">
+    <Compile Include="views\FrmRohboid.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmRohboid.Designer.cs">
+    <Compile Include="views\FrmRohboid.Designer.cs">
       <DependentUpon>FrmRohboid.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmSemicircle.cs">
+    <Compile Include="views\FrmSemicircle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmSemicircle.Designer.cs">
+    <Compile Include="views\FrmSemicircle.Designer.cs">
       <DependentUpon>FrmSemicircle.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmSquare.cs">
+    <Compile Include="views\FrmSquare.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmSquare.Designer.cs">
+    <Compile Include="views\FrmSquare.Designer.cs">
       <DependentUpon>FrmSquare.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmStar.cs">
+    <Compile Include="views\FrmStar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmStar.Designer.cs">
+    <Compile Include="views\FrmStar.Designer.cs">
       <DependentUpon>FrmStar.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmTemplate.cs">
+    <Compile Include="views\templates\FrmTemplate.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmTemplate.Designer.cs">
+    <Compile Include="views\templates\FrmTemplate.Designer.cs">
       <DependentUpon>FrmTemplate.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmTrapeze.cs">
+    <Compile Include="views\FrmTrapeze.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmTrapeze.Designer.cs">
+    <Compile Include="views\FrmTrapeze.Designer.cs">
       <DependentUpon>FrmTrapeze.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmTrapezoid.cs">
+    <Compile Include="views\FrmTrapezoid.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmTrapezoid.Designer.cs">
+    <Compile Include="views\FrmTrapezoid.Designer.cs">
       <DependentUpon>FrmTrapezoid.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmTriangle.cs">
+    <Compile Include="views\FrmTriangle.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmTriangle.Designer.cs">
+    <Compile Include="views\FrmTriangle.Designer.cs">
       <DependentUpon>FrmTriangle.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmCircle.resx">
+    <EmbeddedResource Include="views\FrmCircle.resx">
       <DependentUpon>FrmCircle.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmDeltoid.resx">
+    <EmbeddedResource Include="views\FrmDeltoid.resx">
       <DependentUpon>FrmDeltoid.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmDiamond.resx">
+    <EmbeddedResource Include="views\FrmDiamond.resx">
       <DependentUpon>FrmDiamond.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmElipse.resx">
+    <EmbeddedResource Include="views\FrmElipse.resx">
       <DependentUpon>FrmElipse.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmHome.resx">
       <DependentUpon>FrmHome.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmRectangle.resx">
+    <EmbeddedResource Include="views\FrmRectangle.resx">
       <DependentUpon>FrmRectangle.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmRohboid.resx">
+    <EmbeddedResource Include="views\FrmRohboid.resx">
       <DependentUpon>FrmRohboid.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmSemicircle.resx">
+    <EmbeddedResource Include="views\FrmSemicircle.resx">
       <DependentUpon>FrmSemicircle.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmSquare.resx">
+    <EmbeddedResource Include="views\FrmSquare.resx">
       <DependentUpon>FrmSquare.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmStar.resx">
+    <EmbeddedResource Include="views\FrmStar.resx">
       <DependentUpon>FrmStar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmTemplate.resx">
+    <EmbeddedResource Include="views\templates\FrmTemplate.resx">
       <DependentUpon>FrmTemplate.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmTrapeze.resx">
+    <EmbeddedResource Include="views\FrmTrapeze.resx">
       <DependentUpon>FrmTrapeze.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmTrapezoid.resx">
+    <EmbeddedResource Include="views\FrmTrapezoid.resx">
       <DependentUpon>FrmTrapezoid.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmTriangle.resx">
+    <EmbeddedResource Include="views\FrmTriangle.resx">
       <DependentUpon>FrmTriangle.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

@@ -43,6 +43,7 @@
             this.btnDeltoid = new System.Windows.Forms.Button();
             this.btnRohboid = new System.Windows.Forms.Button();
             this.btnDiamod = new System.Windows.Forms.Button();
+            this.btnPickColor = new System.Windows.Forms.Button();
             this.containerTitle.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,6 +61,7 @@
             // containerTitle
             // 
             this.containerTitle.BackColor = System.Drawing.Color.Salmon;
+            this.containerTitle.Controls.Add(this.btnPickColor);
             this.containerTitle.Controls.Add(this.lblTitle);
             this.containerTitle.Location = new System.Drawing.Point(1, 1);
             this.containerTitle.Name = "containerTitle";
@@ -231,6 +233,19 @@
             this.btnDiamod.UseVisualStyleBackColor = false;
             this.btnDiamod.Click += new System.EventHandler(this.btnDiamod_Click);
             // 
+            // btnPickColor
+            // 
+            this.btnPickColor.BackColor = System.Drawing.Color.IndianRed;
+            this.btnPickColor.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPickColor.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnPickColor.Location = new System.Drawing.Point(702, 5);
+            this.btnPickColor.Name = "btnPickColor";
+            this.btnPickColor.Size = new System.Drawing.Size(80, 56);
+            this.btnPickColor.TabIndex = 25;
+            this.btnPickColor.Text = "Color";
+            this.btnPickColor.UseVisualStyleBackColor = false;
+            this.btnPickColor.Click += new System.EventHandler(this.btnPickColor_Click);
+            // 
             // FrmHome
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -280,5 +295,6 @@
         private System.Windows.Forms.Button btnDeltoid;
         private System.Windows.Forms.Button btnRohboid;
         private System.Windows.Forms.Button btnDiamod;
+        private System.Windows.Forms.Button btnPickColor;
     }
 }

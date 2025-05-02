@@ -1,4 +1,7 @@
-﻿namespace FiguresApp
+﻿using System;
+using System.Windows.Forms;
+
+namespace FiguresApp
 {
     partial class FrmTemplate
     {
@@ -29,11 +32,18 @@
         private void InitializeComponent()
         {
             this.containerTitle = new System.Windows.Forms.Panel();
-            this.pnlHeader = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
             this.btnBack = new System.Windows.Forms.Button();
             this.lblTitle = new System.Windows.Forms.Label();
             this.gInput = new System.Windows.Forms.GroupBox();
-            this.lblSide = new System.Windows.Forms.Label();
+            this.txtField4 = new System.Windows.Forms.TextBox();
+            this.txtxField3 = new System.Windows.Forms.TextBox();
+            this.txtField2 = new System.Windows.Forms.TextBox();
+            this.txtField1 = new System.Windows.Forms.TextBox();
+            this.lblField4 = new System.Windows.Forms.Label();
+            this.lblField3 = new System.Windows.Forms.Label();
+            this.lblField2 = new System.Windows.Forms.Label();
+            this.lblField1 = new System.Windows.Forms.Label();
             this.gOutputs = new System.Windows.Forms.GroupBox();
             this.txtArea = new System.Windows.Forms.TextBox();
             this.txtPerimeter = new System.Windows.Forms.TextBox();
@@ -42,6 +52,7 @@
             this.pData = new System.Windows.Forms.Panel();
             this.Graph = new System.Windows.Forms.GroupBox();
             this.pBGraph = new System.Windows.Forms.PictureBox();
+            this.btnPlot = new System.Windows.Forms.Button();
             this.containerTitle.SuspendLayout();
             this.gInput.SuspendLayout();
             this.gOutputs.SuspendLayout();
@@ -53,7 +64,7 @@
             // containerTitle
             // 
             this.containerTitle.BackColor = System.Drawing.Color.Salmon;
-            this.containerTitle.Controls.Add(this.pnlHeader);
+            this.containerTitle.Controls.Add(this.btnClear);
             this.containerTitle.Controls.Add(this.btnBack);
             this.containerTitle.Controls.Add(this.lblTitle);
             this.containerTitle.Location = new System.Drawing.Point(-2, 0);
@@ -61,17 +72,17 @@
             this.containerTitle.Size = new System.Drawing.Size(803, 64);
             this.containerTitle.TabIndex = 3;
             // 
-            // pnlHeader
+            // btnClear
             // 
-            this.pnlHeader.BackColor = System.Drawing.Color.IndianRed;
-            this.pnlHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.pnlHeader.ForeColor = System.Drawing.Color.White;
-            this.pnlHeader.Location = new System.Drawing.Point(681, 12);
-            this.pnlHeader.Name = "pnlHeader";
-            this.pnlHeader.Size = new System.Drawing.Size(119, 49);
-            this.pnlHeader.TabIndex = 9;
-            this.pnlHeader.Text = "Clear";
-            this.pnlHeader.UseVisualStyleBackColor = false;
+            this.btnClear.BackColor = System.Drawing.Color.IndianRed;
+            this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClear.ForeColor = System.Drawing.Color.White;
+            this.btnClear.Location = new System.Drawing.Point(681, 12);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(119, 49);
+            this.btnClear.TabIndex = 9;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = false;
             // 
             // btnBack
             // 
@@ -99,23 +110,92 @@
             // 
             // gInput
             // 
-            this.gInput.Controls.Add(this.lblSide);
+            this.gInput.Controls.Add(this.txtField4);
+            this.gInput.Controls.Add(this.txtxField3);
+            this.gInput.Controls.Add(this.txtField2);
+            this.gInput.Controls.Add(this.txtField1);
+            this.gInput.Controls.Add(this.lblField4);
+            this.gInput.Controls.Add(this.lblField3);
+            this.gInput.Controls.Add(this.lblField2);
+            this.gInput.Controls.Add(this.lblField1);
             this.gInput.Location = new System.Drawing.Point(26, 19);
             this.gInput.Name = "gInput";
-            this.gInput.Size = new System.Drawing.Size(232, 104);
+            this.gInput.Size = new System.Drawing.Size(232, 140);
             this.gInput.TabIndex = 4;
             this.gInput.TabStop = false;
             this.gInput.Text = "Inputs";
             // 
-            // lblSide
+            // txtField4
             // 
-            this.lblSide.AutoSize = true;
-            this.lblSide.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lblSide.Location = new System.Drawing.Point(6, 40);
-            this.lblSide.Name = "lblSide";
-            this.lblSide.Size = new System.Drawing.Size(38, 16);
-            this.lblSide.TabIndex = 4;
-            this.lblSide.Text = "Side:";
+            this.txtField4.BackColor = System.Drawing.Color.Snow;
+            this.txtField4.Location = new System.Drawing.Point(77, 112);
+            this.txtField4.Name = "txtField4";
+            this.txtField4.Size = new System.Drawing.Size(149, 22);
+            this.txtField4.TabIndex = 7;
+            // 
+            // txtxField3
+            // 
+            this.txtxField3.BackColor = System.Drawing.Color.Snow;
+            this.txtxField3.Location = new System.Drawing.Point(77, 82);
+            this.txtxField3.Name = "txtxField3";
+            this.txtxField3.Size = new System.Drawing.Size(149, 22);
+            this.txtxField3.TabIndex = 6;
+            // 
+            // txtField2
+            // 
+            this.txtField2.BackColor = System.Drawing.Color.Snow;
+            this.txtField2.Location = new System.Drawing.Point(77, 54);
+            this.txtField2.Name = "txtField2";
+            this.txtField2.Size = new System.Drawing.Size(149, 22);
+            this.txtField2.TabIndex = 5;
+            // 
+            // txtField1
+            // 
+            this.txtField1.BackColor = System.Drawing.Color.Snow;
+            this.txtField1.Location = new System.Drawing.Point(77, 24);
+            this.txtField1.Name = "txtField1";
+            this.txtField1.Size = new System.Drawing.Size(149, 22);
+            this.txtField1.TabIndex = 4;
+            // 
+            // lblField4
+            // 
+            this.lblField4.AutoSize = true;
+            this.lblField4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblField4.Location = new System.Drawing.Point(6, 110);
+            this.lblField4.Name = "lblField4";
+            this.lblField4.Size = new System.Drawing.Size(44, 16);
+            this.lblField4.TabIndex = 3;
+            this.lblField4.Text = "label1";
+            // 
+            // lblField3
+            // 
+            this.lblField3.AutoSize = true;
+            this.lblField3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblField3.Location = new System.Drawing.Point(6, 82);
+            this.lblField3.Name = "lblField3";
+            this.lblField3.Size = new System.Drawing.Size(44, 16);
+            this.lblField3.TabIndex = 2;
+            this.lblField3.Text = "label1";
+            // 
+            // lblField2
+            // 
+            this.lblField2.AutoSize = true;
+            this.lblField2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblField2.Location = new System.Drawing.Point(6, 54);
+            this.lblField2.Name = "lblField2";
+            this.lblField2.Size = new System.Drawing.Size(44, 16);
+            this.lblField2.TabIndex = 1;
+            this.lblField2.Text = "label1";
+            // 
+            // lblField1
+            // 
+            this.lblField1.AutoSize = true;
+            this.lblField1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblField1.Location = new System.Drawing.Point(6, 27);
+            this.lblField1.Name = "lblField1";
+            this.lblField1.Size = new System.Drawing.Size(44, 16);
+            this.lblField1.TabIndex = 0;
+            this.lblField1.Text = "label1";
             // 
             // gOutputs
             // 
@@ -123,7 +203,7 @@
             this.gOutputs.Controls.Add(this.txtPerimeter);
             this.gOutputs.Controls.Add(this.lblArea);
             this.gOutputs.Controls.Add(this.lblPerimeter);
-            this.gOutputs.Location = new System.Drawing.Point(26, 141);
+            this.gOutputs.Location = new System.Drawing.Point(26, 165);
             this.gOutputs.Name = "gOutputs";
             this.gOutputs.Size = new System.Drawing.Size(232, 104);
             this.gOutputs.TabIndex = 5;
@@ -186,7 +266,7 @@
             this.Graph.Controls.Add(this.pBGraph);
             this.Graph.Location = new System.Drawing.Point(406, 97);
             this.Graph.Name = "Graph";
-            this.Graph.Size = new System.Drawing.Size(318, 284);
+            this.Graph.Size = new System.Drawing.Size(385, 343);
             this.Graph.TabIndex = 7;
             this.Graph.TabStop = false;
             this.Graph.Text = "Graph:";
@@ -195,9 +275,21 @@
             // 
             this.pBGraph.Location = new System.Drawing.Point(16, 32);
             this.pBGraph.Name = "pBGraph";
-            this.pBGraph.Size = new System.Drawing.Size(281, 227);
+            this.pBGraph.Size = new System.Drawing.Size(352, 289);
             this.pBGraph.TabIndex = 0;
             this.pBGraph.TabStop = false;
+            // 
+            // btnPlot
+            // 
+            this.btnPlot.BackColor = System.Drawing.Color.IndianRed;
+            this.btnPlot.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnPlot.ForeColor = System.Drawing.Color.White;
+            this.btnPlot.Location = new System.Drawing.Point(47, 391);
+            this.btnPlot.Name = "btnPlot";
+            this.btnPlot.Size = new System.Drawing.Size(119, 49);
+            this.btnPlot.TabIndex = 10;
+            this.btnPlot.Text = "Plot";
+            this.btnPlot.UseVisualStyleBackColor = false;
             // 
             // FrmTemplate
             // 
@@ -205,6 +297,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.OldLace;
             this.ClientSize = new System.Drawing.Size(803, 452);
+            this.Controls.Add(this.btnPlot);
             this.Controls.Add(this.Graph);
             this.Controls.Add(this.pData);
             this.Controls.Add(this.containerTitle);
@@ -224,29 +317,83 @@
             ((System.ComponentModel.ISupportInitialize)(this.pBGraph)).EndInit();
             this.ResumeLayout(false);
 
+            labels = new Label[] { lblField1, lblField2, lblField3, lblField4 };
+            textBoxes = new TextBox[] { txtField1, txtField2, txtxField3, txtField4 };
+
         }
 
         #endregion
 
-        private System.Windows.Forms.Panel containerTitle;
-        private System.Windows.Forms.Label lblTitle;
-        private System.Windows.Forms.GroupBox gInput;
-        private System.Windows.Forms.GroupBox gOutputs;
-        private System.Windows.Forms.Panel pData;
-        private System.Windows.Forms.Label lblPerimeter;
-        private System.Windows.Forms.Label lblArea;
-        private System.Windows.Forms.GroupBox Graph;
-        private System.Windows.Forms.PictureBox pBGraph;
-        private System.Windows.Forms.TextBox txtPerimeter;
-        private System.Windows.Forms.Label lblSide;
-        private System.Windows.Forms.TextBox txtArea;
-        private System.Windows.Forms.Button pnlHeader;
-        private System.Windows.Forms.Button btnBack;
+        public System.Windows.Forms.Panel containerTitle;
+        public System.Windows.Forms.Label lblTitle;
+        public System.Windows.Forms.GroupBox gInput;
+        public System.Windows.Forms.GroupBox gOutputs;
+        public System.Windows.Forms.Panel pData;
+        public System.Windows.Forms.Label lblPerimeter;
+        public System.Windows.Forms.Label lblArea;
+        public System.Windows.Forms.GroupBox Graph;
+        public System.Windows.Forms.PictureBox pBGraph;
+        public System.Windows.Forms.TextBox txtPerimeter;
+        public System.Windows.Forms.TextBox txtArea;
+        public System.Windows.Forms.Button btnClear;
+        public System.Windows.Forms.Button btnBack;
 
 
         public void SetFormTitle(string title) {
             lblTitle.Text = title;
         }
+        private Label[] labels;
+        private TextBox[] textBoxes;
+        public void SetFieldLabel(int fieldNumber, string label)
+        {
+            if (fieldNumber < 0 || fieldNumber >= labels.Length)
+            {
+                throw new System.ArgumentOutOfRangeException(nameof(fieldNumber), "Field number is out of range.");
+            }
+            labels[fieldNumber].Text = label;
+        }
+
+        public void setFieldVisibility(int position, bool visibility) {
+            if (position < 0 || position >= textBoxes.Length)
+            {
+                throw new System.ArgumentOutOfRangeException(nameof(position), "Position is out of range.");
+            }
+            
+            textBoxes[position].Visible = visibility;
+        }
+
+        public void setNumberOfFields(int number) {
+            if (number > 4 || number < 0) {
+                throw new System.ArgumentOutOfRangeException(nameof(number), "Number of fields is out of range.");
+            }
+            for (int i = 0; i < labels.Length; i++)
+            {
+                labels[i].Visible = i < number;
+                textBoxes[i].Visible = i < number;
+            }
+        }
+
+        public void setClearButtonClickEvent(EventHandler eventHandler)
+        {
+            btnClear.Click += eventHandler;
+        }
+
+        public void setPlotButtonClickEvent(EventHandler eventHandler)
+        {
+            btnPlot.Click += eventHandler;
+        }
+
+
+
+        public System.Windows.Forms.TextBox txtField2 ;
+        public System.Windows.Forms.TextBox txtField1;
+        public System.Windows.Forms.Label lblField4;
+        public System.Windows.Forms.Label lblField3;
+        public System.Windows.Forms.Label lblField2;
+        public System.Windows.Forms.Label lblField1;
+        public System.Windows.Forms.TextBox txtField4;
+        public System.Windows.Forms.TextBox txtxField3;
+        public Button btnPlot;
     }
 
 }
