@@ -37,7 +37,7 @@ namespace FiguresApp
             this.lblTitle = new System.Windows.Forms.Label();
             this.gInput = new System.Windows.Forms.GroupBox();
             this.txtField4 = new System.Windows.Forms.TextBox();
-            this.txtxField3 = new System.Windows.Forms.TextBox();
+            this.txtField3 = new System.Windows.Forms.TextBox();
             this.txtField2 = new System.Windows.Forms.TextBox();
             this.txtField1 = new System.Windows.Forms.TextBox();
             this.lblField4 = new System.Windows.Forms.Label();
@@ -111,7 +111,7 @@ namespace FiguresApp
             // gInput
             // 
             this.gInput.Controls.Add(this.txtField4);
-            this.gInput.Controls.Add(this.txtxField3);
+            this.gInput.Controls.Add(this.txtField3);
             this.gInput.Controls.Add(this.txtField2);
             this.gInput.Controls.Add(this.txtField1);
             this.gInput.Controls.Add(this.lblField4);
@@ -133,13 +133,13 @@ namespace FiguresApp
             this.txtField4.Size = new System.Drawing.Size(149, 22);
             this.txtField4.TabIndex = 7;
             // 
-            // txtxField3
+            // txtField3
             // 
-            this.txtxField3.BackColor = System.Drawing.Color.Snow;
-            this.txtxField3.Location = new System.Drawing.Point(77, 82);
-            this.txtxField3.Name = "txtxField3";
-            this.txtxField3.Size = new System.Drawing.Size(149, 22);
-            this.txtxField3.TabIndex = 6;
+            this.txtField3.BackColor = System.Drawing.Color.Snow;
+            this.txtField3.Location = new System.Drawing.Point(77, 82);
+            this.txtField3.Name = "txtField3";
+            this.txtField3.Size = new System.Drawing.Size(149, 22);
+            this.txtField3.TabIndex = 6;
             // 
             // txtField2
             // 
@@ -318,7 +318,7 @@ namespace FiguresApp
             this.ResumeLayout(false);
 
             labels = new Label[] { lblField1, lblField2, lblField3, lblField4 };
-            textBoxes = new TextBox[] { txtField1, txtField2, txtxField3, txtField4 };
+            textBoxes = new TextBox[] { txtField1, txtField2, txtField3, txtField4 };
 
         }
 
@@ -392,7 +392,7 @@ namespace FiguresApp
         public System.Windows.Forms.Label lblField2;
         public System.Windows.Forms.Label lblField1;
         public System.Windows.Forms.TextBox txtField4;
-        public System.Windows.Forms.TextBox txtxField3;
+        public System.Windows.Forms.TextBox txtField3;
         public Button btnPlot;
     }
 

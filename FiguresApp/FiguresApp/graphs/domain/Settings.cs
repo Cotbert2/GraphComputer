@@ -13,9 +13,13 @@ namespace FiguresApp.graphs.domain
         private static Settings instance = new Settings();
         public Color color { get; set; }
 
+        public float ScaleFactor { get; set; }
+
         private Settings()
         {
             color = Color.Red;
+            ScaleFactor = 20.0f;
+
         }
 
         public static Settings Instance

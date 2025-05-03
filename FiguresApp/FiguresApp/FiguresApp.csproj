@@ -46,9 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="graphs\CircleGraph.cs" />
+    <Compile Include="graphs\DiamondGraph.cs" />
     <Compile Include="graphs\domain\GraphAC.cs" />
     <Compile Include="graphs\domain\Settings.cs" />
-    <Compile Include="graphs\ParallelogramGraph.cs" />
+    <Compile Include="graphs\ElipseGraph.cs" />
+    <Compile Include="graphs\RectangleGraph.cs" />
+    <Compile Include="graphs\RhomboidGraph.cs" />
+    <Compile Include="graphs\SemicircleGraph.cs" />
+    <Compile Include="graphs\SquareGraph.cs" />
+    <Compile Include="graphs\TrapezeGraph.cs" />
+    <Compile Include="graphs\TriangleGraph.cs" />
+    <Compile Include="graphs\DeltoideGraph.cs" />
     <Compile Include="views\FrmCircle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +118,7 @@
     <Compile Include="views\FrmStar.Designer.cs">
       <DependentUpon>FrmStar.cs</DependentUpon>
     </Compile>
+    <Compile Include="graphs\StarGraph.cs" />
     <Compile Include="views\templates\FrmTemplate.cs">
       <SubType>Form</SubType>
     </Compile>

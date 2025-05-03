@@ -1,5 +1,4 @@
 ﻿using FiguresApp.graphs.domain;
-using FiguresApp.graphs.interfaces;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -12,7 +11,7 @@ using static System.Windows.Forms.MonthCalendar;
 
 namespace FiguresApp.graphs
 {
-    public class ParallelogramGraph : GraphAC
+    public class RectangleGraph : GraphAC
     {
 
 
@@ -24,7 +23,7 @@ namespace FiguresApp.graphs
         private const float SF = 20;
         private Pen mPen;
 
-        public ParallelogramGraph() {
+        public RectangleGraph() {
             mWidth = mHeight = mPerimeter = mArea = 0.0f;
         }
 

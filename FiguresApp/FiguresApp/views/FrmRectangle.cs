@@ -14,7 +14,7 @@ namespace FiguresApp
     public partial class FrmRectangle : FrmTemplate
     {
 
-        private ParallelogramGraph myParallelogramGraph = new ParallelogramGraph();
+        private graphs.RectangleGraph myParallelogramGraph = new graphs.RectangleGraph();
         public FrmRectangle()
         {
             InitializeComponent();

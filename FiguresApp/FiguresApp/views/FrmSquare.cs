@@ -14,7 +14,7 @@ namespace FiguresApp
     public partial class FrmSquare : FrmTemplate
     {
 
-        private ParallelogramGraph myParallelogramGraph = new ParallelogramGraph();
+        private SquareGraph mySquareGraph = new SquareGraph();
         public FrmSquare()
         {
             InitializeComponent();
@@ -26,21 +26,21 @@ namespace FiguresApp
 
         private void FrmSquare_Load(object sender, EventArgs e)
         {
-            myParallelogramGraph.InitData(txtField1, txtField1, txtPerimeter, txtArea, pBGraph);
+            mySquareGraph.InitData(txtField1, txtPerimeter, txtArea, pBGraph);
         }
 
         private void btnPlot_Click_1(object sender, EventArgs e)
         {
-            myParallelogramGraph.ReadData(txtField1, txtField1);
-            myParallelogramGraph.ComputePerimeter();
-            myParallelogramGraph.ComputeArea();
-            myParallelogramGraph.RenderData(txtPerimeter, txtArea);
-            myParallelogramGraph.RenderGraph(pBGraph);
+            mySquareGraph.ReadData(txtField1, txtField1);
+            mySquareGraph.ComputePerimeter();
+            mySquareGraph.ComputeArea();
+            mySquareGraph.RenderData(txtPerimeter, txtArea);
+            mySquareGraph.RenderGraph(pBGraph);
         }
 
         private void btnClear_Click_1(object sender, EventArgs e)
         {
-            myParallelogramGraph.InitData(txtField1, txtField1, txtPerimeter, txtArea, pBGraph);
+            mySquareGraph.InitData(txtField1, txtField1, txtPerimeter, txtArea, pBGraph);
         }
     }
 }
