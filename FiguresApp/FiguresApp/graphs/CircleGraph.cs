@@ -57,6 +57,8 @@ namespace FiguresApp.graphs
         public override void RenderData(TextBox txtPerimeter, TextBox txtArea)
         {
             // Implementation for rendering data specific to Circle
+            mPerimeter = (float)Math.Round(mPerimeter, 2);
+            mArea = (float)Math.Round(mArea, 2);
             txtPerimeter.Text = mPerimeter.ToString();
             txtArea.Text = mArea.ToString();
         }

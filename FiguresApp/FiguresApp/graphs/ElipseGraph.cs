@@ -38,6 +38,8 @@ namespace FiguresApp.graphs
 
         public override void RenderData(TextBox txtPerimeter, TextBox txtArea)
         {
+            perimeter = (float)Math.Round(perimeter, 2);
+            area = (float)Math.Round(area, 2);
             txtPerimeter.Text = perimeter.ToString();
             txtArea.Text = area.ToString();
         }

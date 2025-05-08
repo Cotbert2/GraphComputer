@@ -41,6 +41,8 @@ namespace FiguresApp.views
         public override void RenderData(TextBox txtPerimeter, TextBox txtArea)
         {
             // Implementation for rendering data specific to Star
+            perimeter = (float)Math.Round(perimeter, 2);
+            area = (float)Math.Round(area, 2);
             txtPerimeter.Text = perimeter.ToString();
             txtArea.Text = area.ToString();
         }
@@ -55,6 +57,12 @@ namespace FiguresApp.views
                 if (tips <= 0 || outerRadius <= 0 || innerRadius <= 0)
                 {
                     MessageBox.Show("All values must be positive.");
+                    return;
+                }
+
+                if (tips <= 4)
+                {
+                    MessageBox.Show("Star must have more than 4 tips.");
                     return;
                 }
             }

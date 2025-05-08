@@ -67,6 +67,8 @@ namespace FiguresApp.graphs
 
         public override void RenderData(TextBox txtPerimeter, TextBox txtArea)
         {
+            perimeter = (float)Math.Round(perimeter, 2);
+            area = (float)Math.Round(area, 2);
             txtPerimeter.Text = perimeter.ToString("F2", System.Globalization.CultureInfo.InvariantCulture);
             txtArea.Text = area.ToString("F2", System.Globalization.CultureInfo.InvariantCulture);
         }
@@ -103,8 +105,7 @@ namespace FiguresApp.graphs
         public override void RenderGraph(PictureBox pictureCanvas)
         {
             mGraph = pictureCanvas.CreateGraphics();
-            mGraph.Clear(Color.White);
-            mPen = new Pen(Color.Black, 2);
+            mPen = new Pen(Settings.Instance.color, 2);
             mGraph.DrawPolygon(mPen, points);
 
         }
