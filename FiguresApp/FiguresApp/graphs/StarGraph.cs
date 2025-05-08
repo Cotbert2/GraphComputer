@@ -52,6 +52,11 @@ namespace FiguresApp.views
                 tips = int.Parse(txtTips.Text);
                 outerRadius = float.Parse(txtOuterRadius.Text);
                 innerRadius = float.Parse(txtInnerRadius.Text);
+                if (tips <= 0 || outerRadius <= 0 || innerRadius <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

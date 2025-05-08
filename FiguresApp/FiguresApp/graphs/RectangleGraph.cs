@@ -35,6 +35,11 @@ namespace FiguresApp.graphs
             {
                 mWidth = float.Parse(txtWidth.Text, CultureInfo.InvariantCulture);
                 mHeight = float.Parse(txtHeight.Text, CultureInfo.InvariantCulture);
+                if (mWidth <= 0 || mHeight <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

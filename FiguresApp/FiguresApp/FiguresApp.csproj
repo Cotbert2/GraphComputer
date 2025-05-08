@@ -56,6 +56,7 @@
     <Compile Include="graphs\SemicircleGraph.cs" />
     <Compile Include="graphs\SquareGraph.cs" />
     <Compile Include="graphs\TrapezeGraph.cs" />
+    <Compile Include="graphs\TrapezoidGraph.cs" />
     <Compile Include="graphs\TriangleGraph.cs" />
     <Compile Include="graphs\DeltoideGraph.cs" />
     <Compile Include="views\FrmCircle.cs">

@@ -45,6 +45,11 @@ namespace FiguresApp.graphs
             try
             {
                 radius = float.Parse(txtRadius.Text, System.Globalization.CultureInfo.InvariantCulture);
+                if (radius <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

@@ -32,6 +32,11 @@ namespace FiguresApp.graphs
             try
             {
                 ratio = float.Parse(txtRatio.Text, CultureInfo.InvariantCulture);
+                if (ratio <= 0)
+                {
+                    MessageBox.Show("Ratio must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

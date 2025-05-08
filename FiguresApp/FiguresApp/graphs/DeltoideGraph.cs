@@ -12,9 +12,9 @@ namespace FiguresApp.views
     public class DeltoideGraph : GraphAC
     {
 
-        private float axis1;
-        private float axis2;
-        private float side;
+        private float side1;
+        private float side2;
+        private float axis;
         private float area;
         private float perimeter;
         private Graphics mGraph;
@@ -26,29 +26,44 @@ namespace FiguresApp.views
         public DeltoideGraph()
         {
             SF = Settings.Instance.ScaleFactor;
-            axis1 = axis2 = side = area = perimeter = 0.0f;
+            side1 = side2 = axis = area = perimeter = 0.0f;
         }
 
 
 
         public override void ComputeArea()
         {
-            area = (axis1 * axis2) / 2;
+            PointF[] pointsUnScaled = new PointF[4];
+            pointsUnScaled[0] = new PointF(points[0].X / SF, points[0].Y / SF);
+            pointsUnScaled[1] = new PointF(points[1].X / SF, points[1].Y / SF);
+            pointsUnScaled[2] = new PointF(points[2].X / SF, points[2].Y / SF);
+            pointsUnScaled[3] = new PointF(points[3].X / SF, points[3].Y / SF);
+            area = ((distanceBetweenPoints(pointsUnScaled[0], pointsUnScaled[2]) * distanceBetweenPoints(pointsUnScaled[1], pointsUnScaled[2])) / 2.0f);
         }
 
         public override void ComputePerimeter()
         {
-            
+            perimeter = 2 * (float)(side2 + side1);
         }
 
-        public override void ReadData(TextBox txtAxis1, TextBox txtAxis2, TextBox txtSide)
+        public override void ReadData(TextBox txtSide1, TextBox txtSide2, TextBox txtAxis)
         {
             // Implementation for reading data specific to Deltoide
             try
             {
-                axis1 = float.Parse(txtAxis1.Text, System.Globalization.CultureInfo.InvariantCulture);
-                axis2 = float.Parse(txtAxis2.Text, System.Globalization.CultureInfo.InvariantCulture);
-                side = float.Parse(txtSide.Text, System.Globalization.CultureInfo.InvariantCulture);
+                side1 = float.Parse(txtSide1.Text, System.Globalization.CultureInfo.InvariantCulture);
+                side2 = float.Parse(txtSide2.Text, System.Globalization.CultureInfo.InvariantCulture);
+                axis = float.Parse(txtAxis.Text, System.Globalization.CultureInfo.InvariantCulture);
+                if (side1 <= 0 || side2 <= 0 || axis <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
+                if (side1 + side2 < axis) 
+                {
+                    MessageBox.Show("The polygon does not exists");
+                    return;
+                }
                 ComputePoints();
             }
             catch (FormatException)
@@ -64,10 +79,12 @@ namespace FiguresApp.views
         }
 
         private void ComputePoints() {
-            points[0] = new PointF(axis1 / 2,0);
-            points[1] = new PointF(axis1, axis2 / 2);
-            points[2] = new PointF(axis1 / 2, axis2);
-            points[3] = new PointF(0, axis2 / 2);
+            float x =   (float) Math.Sqrt(side1 * side1 - Math.Pow(side2 - (axis / 2), 2));
+            float y = (side1 * side1 - side2 * side2)/(2*axis);
+            points[0] = new PointF(x, 0);
+            points[1] = new PointF(2 * x , y + (axis/2));
+            points[2] = new PointF(x ,axis);
+            points[3] = new PointF(0, y + (axis / 2));
 
             for (int i = 0; i < points.Length; i++)
             {
@@ -76,24 +93,28 @@ namespace FiguresApp.views
             }
         }
 
-        public override void InitData(TextBox txtAxis1, TextBox txtAxis2, TextBox txtSide, TextBox txtPerimeter, TextBox txtArea, PictureBox pictureCanvas)
+        private float distanceBetweenPoints(PointF p1, PointF p2)
         {
-            axis1 = axis2 = side = area = perimeter = 0.0f;
-            txtAxis1.Text = txtAxis2.Text = txtSide.Text = txtPerimeter.Text = txtArea.Text = "";
-            txtAxis1.Focus();
+            return (float)Math.Sqrt(Math.Pow(p2.X - p1.X, 2) + Math.Pow(p2.Y - p1.Y, 2));
+        }
+
+        public override void InitData(TextBox txtSide1, TextBox txtSide2, TextBox txtAxis, TextBox txtPerimeter, TextBox txtArea, PictureBox pictureCanvas)
+        {
+            side1 = side2 = axis = area = perimeter = 0.0f;
+            txtSide1.Text = txtSide2.Text = txtAxis.Text = txtPerimeter.Text = txtArea.Text = "";
+            txtSide1.Focus();
 
             pictureCanvas.Refresh();
         }
 
         public override void RenderGraph(PictureBox pictureCanvas)
         {
+
             mGraph = pictureCanvas.CreateGraphics();
-            mPen = new Pen(Color.Black, 2);
+            mPen = new Pen(Settings.Instance.color, 2);
+
 
             mGraph.DrawPolygon(mPen, points);
-
-
-
         }
     }
 }

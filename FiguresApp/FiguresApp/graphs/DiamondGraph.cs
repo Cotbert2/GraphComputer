@@ -45,6 +45,11 @@ namespace FiguresApp.graphs
             {
                 majorAxis = float.Parse(txtMajorAxis.Text, System.Globalization.CultureInfo.InvariantCulture);
                 minorAxis = float.Parse(txtMinorAxis.Text, System.Globalization.CultureInfo.InvariantCulture);
+                if (majorAxis <= 0 || minorAxis <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

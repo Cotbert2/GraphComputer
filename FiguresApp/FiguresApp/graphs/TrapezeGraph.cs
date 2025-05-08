@@ -34,6 +34,11 @@ namespace FiguresApp.graphs
                 minorBase = float.Parse(txtMinorBase.Text, System.Globalization.CultureInfo.InvariantCulture);
                 majorBase = float.Parse(txtMajorBase.Text, System.Globalization.CultureInfo.InvariantCulture);
                 height = float.Parse(txtHeight.Text, System.Globalization.CultureInfo.InvariantCulture);
+                if (minorBase <= 0 || majorBase <= 0 || height <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

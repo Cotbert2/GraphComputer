@@ -13,11 +13,27 @@ namespace Figure1
     public partial class FrmSquare : Form
     {
 
+        public static FrmSquare instance = new FrmSquare();
+
+        public static FrmSquare Instance
+        {
+            get
+            {
+                if (instance == null || instance.IsDisposed)
+                {
+                    instance = new FrmSquare();
+                }
+                return instance;
+            }
+        }
+
+
         private Square mySquare= new Square();
 
         public FrmSquare()
         {
             InitializeComponent();
+            //this.IsMdiContainer = true;
         }
 
         private void btnDraw_Click(object sender, EventArgs e)

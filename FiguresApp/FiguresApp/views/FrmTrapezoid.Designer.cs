@@ -28,7 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.containerTitle.SuspendLayout();
+            this.gInput.SuspendLayout();
+            this.gOutputs.SuspendLayout();
+            this.pData.SuspendLayout();
+            this.Graph.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pBGraph)).BeginInit();
             this.SuspendLayout();
+            // 
+            // btnClear
+            // 
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // btnPlot
+            // 
+            this.btnPlot.Click += new System.EventHandler(this.btnPlot_Click);
             // 
             // FrmTrapezoid
             // 
@@ -38,6 +52,15 @@
             this.Name = "FrmTrapezoid";
             this.Text = "FrmTrapezoid";
             this.Load += new System.EventHandler(this.FrmTrapezoid_Load);
+            this.containerTitle.ResumeLayout(false);
+            this.containerTitle.PerformLayout();
+            this.gInput.ResumeLayout(false);
+            this.gInput.PerformLayout();
+            this.gOutputs.ResumeLayout(false);
+            this.gOutputs.PerformLayout();
+            this.pData.ResumeLayout(false);
+            this.Graph.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pBGraph)).EndInit();
             this.ResumeLayout(false);
 
         }

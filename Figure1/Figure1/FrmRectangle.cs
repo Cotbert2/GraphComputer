@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Figure1.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,10 +13,39 @@ namespace Figure1
 {
     public partial class FrmRectangle : Form
     {
+
+        public static FrmRectangle instance = new FrmRectangle();
+
+
+        public static FrmRectangle Instance
+        {
+            get
+            {
+                if (instance == null || instance.IsDisposed)
+                {
+                    instance = new FrmRectangle();
+                }
+                return instance;
+            }
+        }
+
+        //close form
+        public void CloseForm(Form form)
+        {
+            form.Close();
+        }
+
+
+
+
+
+
+
         private Rectangle myRectangle = new Rectangle();
         public FrmRectangle()
         {
             InitializeComponent();
+            //this.IsMdiContainer = true;
         }
 
         private void FrmRectangleLoad(object sender, EventArgs e)

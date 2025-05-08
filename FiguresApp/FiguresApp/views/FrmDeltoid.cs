@@ -19,9 +19,9 @@ namespace FiguresApp
             InitializeComponent();
             SetFormTitle("Deltoid");
             setNumberOfFields(3);
-            SetFieldLabel(0, "Base (u): ");
-            SetFieldLabel(1, "Height (u): ");
-            SetFieldLabel(2, "Side (u): ");
+            SetFieldLabel(0, "Side (u): ");
+            SetFieldLabel(1, "Side  (u): ");
+            SetFieldLabel(2, "Axis (u): ");
         }
 
         private void FrmDeltoid_Load(object sender, EventArgs e)

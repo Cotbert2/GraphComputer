@@ -33,6 +33,11 @@ namespace FiguresApp.graphs
             try
             {
                 side = float.Parse(txtSide.Text, CultureInfo.InvariantCulture);
+                if (side <= 0)
+                {
+                    MessageBox.Show("All values must be positive.");
+                    return;
+                }
             }
             catch (FormatException)
             {

@@ -16,7 +16,7 @@ namespace Figure1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmSquare());
+            Application.Run(new FrmClickLines());
         }
     }
 }
