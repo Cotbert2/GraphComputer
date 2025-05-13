@@ -24,6 +24,11 @@ namespace Figure1
 
         public void AddPoint(PointF point)
         {
+            //delete first point
+            if (points.Count > 1)
+            {
+                points.RemoveAt(0);
+            }
             points.Add(point);
         }
 
@@ -40,23 +45,21 @@ namespace Figure1
 
         public void ShowGraph(PictureBox pictureBox)
         {
-            if (mGraph != null)
-            {
-                mGraph.Dispose();
-            }
+
             mGraph = pictureBox.CreateGraphics();
             mPen = new Pen(Color.Green, 2);
-            mGraph.Clear(Color.White);
             for (int i = 0; i < points.Count - 1; i++)
             {
-                DrawPoint(points[i]);
+                DrawPoint(points[i+1]);
                 mGraph.DrawLine(mPen, points[i], points[i + 1]);
             }
 
         }
 
-        public void Clear()
+        public void Clear(PictureBox pictureBox)
         {
+            mGraph = pictureBox.CreateGraphics();
+            mGraph.Clear(Color.White);
             points.Clear();
             points.Add(new PointF(0, 0));
 

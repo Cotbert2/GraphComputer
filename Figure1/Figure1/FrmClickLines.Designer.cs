@@ -38,15 +38,17 @@
             // lblTitle
             // 
             this.lblTitle.AutoSize = true;
+            this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitle.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.lblTitle.Location = new System.Drawing.Point(358, 26);
+            this.lblTitle.Location = new System.Drawing.Point(303, 24);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(111, 16);
+            this.lblTitle.Size = new System.Drawing.Size(175, 32);
             this.lblTitle.TabIndex = 0;
-            this.lblTitle.Text = "Click para dibujar";
+            this.lblTitle.Text = "Click to draw";
             // 
             // canvas
             // 
+            this.canvas.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.canvas.Location = new System.Drawing.Point(108, 85);
             this.canvas.Name = "canvas";
             this.canvas.Size = new System.Drawing.Size(630, 302);
@@ -87,6 +89,7 @@
             this.Controls.Add(this.lblTitle);
             this.Name = "FrmClickLines";
             this.Text = "FrmClickLines";
+            this.Load += new System.EventHandler(this.FrmClickLines_Load);
             ((System.ComponentModel.ISupportInitialize)(this.canvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

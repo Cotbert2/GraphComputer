@@ -65,6 +65,12 @@ namespace FiguresApp.views
                     MessageBox.Show("Star must have more than 4 tips.");
                     return;
                 }
+
+                if (tips >= 20)
+                {
+                    MessageBox.Show("Star must have less than 20 tips.");
+                    return;
+                }
             }
             catch (FormatException)
             {

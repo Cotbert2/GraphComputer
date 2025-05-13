@@ -25,7 +25,6 @@ namespace Figure1
 
         private void clickEvent(object sender, MouseEventArgs e)
         {
-            //MessageBox.Show("Click at " + e.X.ToString() + "," + e.Y.ToString());
             mDrawer.AddPoint(new PointF(e.X, e.Y));
             mDrawer.ShowGraph(canvas);
         }
@@ -37,23 +36,13 @@ namespace Figure1
 
         private void btnClick_Click(object sender, EventArgs e)
         {
-            mDrawer.Clear();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            mDrawer.Clear(canvas);
             mDrawer.ShowGraph(canvas);
+        }
+
+        private void FrmClickLines_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
