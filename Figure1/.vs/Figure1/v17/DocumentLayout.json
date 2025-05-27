@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\frmhexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmhexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\frmhexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmhexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\frmclicklines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmclicklines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +43,8 @@
       "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\frmclicklines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|c:\\users\\mateo\\development\\graphcomputer\\figure1\\figure1\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\drawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\figure1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5DB0434-EE15-4891-836E-3089B355E08C}|Figure1\\Figure1.csproj|solutionrelative:figure1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +66,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Drawer.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Drawer.cs",
-              "RelativeDocumentMoniker": "Figure1\\Drawer.cs",
-              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Drawer.cs",
-              "RelativeToolTip": "Figure1\\Drawer.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwD0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:37:03.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmClickLines.cs",
-              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs",
-              "RelativeDocumentMoniker": "Figure1\\FrmClickLines.cs",
-              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs",
-              "RelativeToolTip": "Figure1\\FrmClickLines.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Title": "Hexagon.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Hexagon.cs",
+              "RelativeDocumentMoniker": "Figure1\\Hexagon.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Hexagon.cs",
+              "RelativeToolTip": "Figure1\\Hexagon.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwEUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:42:25.512Z",
+              "WhenOpened": "2025-05-22T19:38:10.498Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmClickLines.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs",
-              "RelativeDocumentMoniker": "Figure1\\FrmClickLines.cs",
-              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs [Design]",
-              "RelativeToolTip": "Figure1\\FrmClickLines.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:41:22.033Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -82,9 +85,116 @@
               "RelativeDocumentMoniker": "Figure1\\Program.cs",
               "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Program.cs",
               "RelativeToolTip": "Figure1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:41:18.671Z"
+              "WhenOpened": "2025-05-06T15:41:18.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHexagono.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmHexagono.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmHexagono.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmHexagono.cs [Design]",
+              "RelativeToolTip": "Figure1\\FrmHexagono.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:40:39.07Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmHexagono.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmHexagono.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmHexagono.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmHexagono.cs",
+              "RelativeToolTip": "Figure1\\FrmHexagono.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIA5wFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T20:06:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmRectangle.cs",
+              "RelativeToolTip": "Figure1\\FrmRectangle.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:53:22.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRectangle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmRectangle.cs [Design]",
+              "RelativeToolTip": "Figure1\\FrmRectangle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:53:21.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmHome.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmHome.cs [Design]",
+              "RelativeToolTip": "Figure1\\FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:53:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Figure1\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Rectangle.cs",
+              "RelativeToolTip": "Figure1\\Rectangle.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:44:13.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmClickLines.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmClickLines.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs",
+              "RelativeToolTip": "Figure1\\FrmClickLines.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:42:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Drawer.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Drawer.cs",
+              "RelativeDocumentMoniker": "Figure1\\Drawer.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\Drawer.cs",
+              "RelativeToolTip": "Figure1\\Drawer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:37:03.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmClickLines.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs",
+              "RelativeDocumentMoniker": "Figure1\\FrmClickLines.cs",
+              "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\Figure1\\Figure1\\FrmClickLines.cs [Design]",
+              "RelativeToolTip": "Figure1\\FrmClickLines.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:41:22.033Z"
             }
           ]
         }
