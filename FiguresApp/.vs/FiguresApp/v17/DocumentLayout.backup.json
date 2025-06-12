@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\graphs\\rhomboidgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\graphs\\rhomboidgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\graphs\\deltoidegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\graphs\\deltoidegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\templates\\frmtemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\templates\\frmtemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\graphs\\stargraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\graphs\\stargraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|c:\\users\\mateo\\development\\graphcomputer\\figuresapp\\figuresapp\\graphs\\deltoidegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\graphs\\deltoidegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\graphs\\diamondgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\graphs\\diamondgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\graphs\\rhomboidgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\graphs\\rhomboidgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\graphs\\trapezoidgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,18 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\templates\\frmtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\templates\\frmtemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|solutionrelative:figuresapp\\views\\templates\\frmtemplate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58C945D3-1968-4B99-8ED2-F53272AEBD53}|FiguresApp\\FiguresApp.csproj|C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\figuresapp\\views\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FrmStar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\FrmStar.cs",
               "RelativeDocumentMoniker": "FiguresApp\\views\\FrmStar.cs",
@@ -138,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StarGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\StarGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\StarGraph.cs",
@@ -151,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "FrmTriangle.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\FrmTriangle.cs",
               "RelativeDocumentMoniker": "FiguresApp\\views\\FrmTriangle.cs",
@@ -162,42 +162,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "FrmTemplate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\templates\\FrmTemplate.Designer.cs",
               "RelativeDocumentMoniker": "FiguresApp\\views\\templates\\FrmTemplate.Designer.cs",
               "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\templates\\FrmTemplate.Designer.cs",
               "RelativeToolTip": "FiguresApp\\views\\templates\\FrmTemplate.Designer.cs",
-              "ViewState": "AgIAAFUBAAAAAAAAAADwv2ABAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAFUBAAAAAAAAAAA1wFoBAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:50:46.905Z"
+              "WhenOpened": "2025-05-08T01:50:46.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "FrmTemplate.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\templates\\FrmTemplate.cs",
               "RelativeDocumentMoniker": "FiguresApp\\views\\templates\\FrmTemplate.cs",
               "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\templates\\FrmTemplate.cs",
               "RelativeToolTip": "FiguresApp\\views\\templates\\FrmTemplate.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:02:12.309Z"
+              "WhenOpened": "2025-05-08T01:02:12.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "FrmTemplate.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\templates\\FrmTemplate.cs",
               "RelativeDocumentMoniker": "FiguresApp\\views\\templates\\FrmTemplate.cs",
               "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\views\\templates\\FrmTemplate.cs [Design]",
               "RelativeToolTip": "FiguresApp\\views\\templates\\FrmTemplate.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T01:02:10.253Z"
+              "WhenOpened": "2025-05-08T01:02:10.253Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "SquareGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\SquareGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\SquareGraph.cs",
@@ -209,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "SemicircleGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\SemicircleGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\SemicircleGraph.cs",
@@ -221,19 +224,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RhomboidGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\RhomboidGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\RhomboidGraph.cs",
               "ToolTip": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\RhomboidGraph.cs",
               "RelativeToolTip": "FiguresApp\\graphs\\RhomboidGraph.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:24:55.402Z"
+              "WhenOpened": "2025-05-07T23:24:55.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RectangleGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\RectangleGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\RectangleGraph.cs",
@@ -245,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DiamondGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\DiamondGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\DiamondGraph.cs",
@@ -257,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CircleGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\CircleGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\CircleGraph.cs",
@@ -269,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "TriangleGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\TriangleGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\TriangleGraph.cs",
@@ -304,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TrapezoidGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\TrapezoidGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\TrapezoidGraph.cs",
@@ -316,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TrapezeGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\TrapezeGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\TrapezeGraph.cs",
@@ -339,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ElipseGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\ElipseGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\ElipseGraph.cs",
@@ -432,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DeltoideGraph.cs",
               "DocumentMoniker": "C:\\Users\\mateo\\Development\\GraphComputer\\FiguresApp\\FiguresApp\\graphs\\DeltoideGraph.cs",
               "RelativeDocumentMoniker": "FiguresApp\\graphs\\DeltoideGraph.cs",
