@@ -9,7 +9,7 @@ namespace GraphExamples.Graphers
     public class ADDGrapher
     {
         private int x1, y1, x2, y2;
-        private List<Point> points = new List<Point>(); // ahora usamos Point (int, int)
+        private List<Point> points = new List<Point>();
 
         public void ReadData(TextBox x1TextBox, TextBox y1TextBox, TextBox x2TextBox, TextBox y2TextBox)
         {
@@ -60,7 +60,7 @@ namespace GraphExamples.Graphers
             int centerY = canvas.Height / 2;
 
             
-            Pen axisPen = new Pen(Color.LightGray, 1);
+            Pen axisPen = new Pen(Color.Black, 1);
             g.DrawLine(axisPen, 0, centerY, canvas.Width, centerY); 
             g.DrawLine(axisPen, centerX, 0, centerX, canvas.Height);
 
@@ -69,7 +69,8 @@ namespace GraphExamples.Graphers
                 int screenX = centerX + p.X;
                 int screenY = centerY - p.Y;
 
-                g.FillRectangle(Brushes.Black, screenX, screenY, 1, 1);
+                g.FillRectangle(
+                    new SolidBrush(Config.Config.Instance.Color), screenX, screenY, 1, 1);
 
                 await Task.Delay(20);
             }

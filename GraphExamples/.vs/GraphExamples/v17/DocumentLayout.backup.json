@@ -3,15 +3,7 @@
   "WorkspaceRootPath": "E:\\Development\\GraphComputer\\GraphExamples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\graphers\\bresenhamgrapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\graphers\\bresenhamgrapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\graphers\\bresenhamgrapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,20 +11,12 @@
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\graphers\\addgrapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\graphers\\bresenhamgraphercircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\graphers\\bresenhamgraphercircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\graphers\\fillfloydgrapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\graphers\\fillfloydgrapher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\shared\\basefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,7 +27,19 @@
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\shared\\basefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\structures\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\structures\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\structures\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,52 +47,52 @@
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\structures\\circularlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\structures\\circularnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\structures\\circularnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\shared\\basefrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\shared\\basefrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmadd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenhamcircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenhamcircle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\views\\frmfill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmfill.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmbresenham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmbresenham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|e:\\development\\graphcomputer\\graphexamples\\graphexamples\\graphers\\utils\\polygonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\graphers\\utils\\polygonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|E:\\Development\\GraphComputer\\GraphExamples\\graphexamples\\views\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268813C6-B8F2-4A97-BCA7-7855629FC655}|GraphExamples\\GraphExamples.csproj|solutionrelative:graphexamples\\views\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,24 +102,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BresenhamGrapher.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\BresenhamGrapher.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Graphers\\BresenhamGrapher.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\BresenhamGrapher.cs",
-              "RelativeToolTip": "GraphExamples\\Graphers\\BresenhamGrapher.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T12:54:11.305Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -131,68 +114,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CircularBuffer.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularBuffer.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Structures\\CircularBuffer.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularBuffer.cs",
-              "RelativeToolTip": "GraphExamples\\Structures\\CircularBuffer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:48:34.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CircularList.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularList.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Structures\\CircularList.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularList.cs",
-              "RelativeToolTip": "GraphExamples\\Structures\\CircularList.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:43:59.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CircularNode.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularNode.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Structures\\CircularNode.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularNode.cs",
-              "RelativeToolTip": "GraphExamples\\Structures\\CircularNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:43:42.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ADDGrapher.cs",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\ADDGrapher.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Graphers\\ADDGrapher.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\ADDGrapher.cs",
               "RelativeToolTip": "GraphExamples\\Graphers\\ADDGrapher.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAiwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAADwvz4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T11:27:11.248Z",
+              "WhenOpened": "2025-06-14T22:02:52.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmMain.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmMain.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmMain.cs",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmMain.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Config.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Config\\Config.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Config\\Config.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Config\\Config.cs",
+              "RelativeToolTip": "GraphExamples\\Config\\Config.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:23:43.651Z",
+              "WhenOpened": "2025-06-14T23:03:40.882Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CircularList.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularList.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Structures\\CircularList.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularList.cs",
+              "RelativeToolTip": "GraphExamples\\Structures\\CircularList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T23:03:12.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBresenhamCircle.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenhamCircle.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs",
+              "RelativeToolTip": "GraphExamples\\Views\\FrmBresenhamCircle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:35:35.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BresenhamGrapherCircle.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\BresenhamGrapherCircle.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Graphers\\BresenhamGrapherCircle.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\BresenhamGrapherCircle.cs",
+              "RelativeToolTip": "GraphExamples\\Graphers\\BresenhamGrapherCircle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvygAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T22:30:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmFill.Designer.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmFill.Designer.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmFill.Designer.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmFill.Designer.cs",
+              "RelativeToolTip": "GraphExamples\\Views\\FrmFill.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T20:50:10.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBresenhamCircle.cs [Design]",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenhamCircle.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs [Design]",
+              "RelativeToolTip": "GraphExamples\\Views\\FrmBresenhamCircle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:18:47.46Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -202,87 +210,91 @@
               "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmFill.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmFill.cs",
               "RelativeToolTip": "GraphExamples\\Views\\FrmFill.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvywAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T22:04:23.605Z",
+              "WhenOpened": "2025-06-14T14:16:54.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "FrmFill.cs [Design]",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmFill.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmFill.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmFill.cs [Design]",
               "RelativeToolTip": "GraphExamples\\Views\\FrmFill.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T22:04:17.625Z",
+              "WhenOpened": "2025-06-14T14:16:50.166Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FrmBresenhamCircle.Designer.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.Designer.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenhamCircle.Designer.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.Designer.cs",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmBresenhamCircle.Designer.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAABAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "FillFloydGrapher.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\FillFloydGrapher.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Graphers\\FillFloydGrapher.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\FillFloydGrapher.cs",
+              "RelativeToolTip": "GraphExamples\\Graphers\\FillFloydGrapher.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvycAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T22:03:50.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FrmBresenhamCircle.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenhamCircle.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmBresenhamCircle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T22:03:14.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FrmBresenhamCircle.cs [Design]",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenhamCircle.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenhamCircle.cs [Design]",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmBresenhamCircle.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T22:03:06.449Z"
+              "WhenOpened": "2025-06-14T13:15:50.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "FrmBresenham.Designer.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenham.Designer.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenham.Designer.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenham.Designer.cs",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmBresenham.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABAAAAAAAAAAA==",
+              "Title": "PolygonUtils.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\Utils\\PolygonUtils.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Graphers\\Utils\\PolygonUtils.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\Utils\\PolygonUtils.cs",
+              "RelativeToolTip": "GraphExamples\\Graphers\\Utils\\PolygonUtils.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T22:01:56.046Z",
+              "WhenOpened": "2025-06-14T13:11:13.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BresenhamGrapher.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\BresenhamGrapher.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Graphers\\BresenhamGrapher.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Graphers\\BresenhamGrapher.cs",
+              "RelativeToolTip": "GraphExamples\\Graphers\\BresenhamGrapher.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwE8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:54:11.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CircularBuffer.cs",
+              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularBuffer.cs",
+              "RelativeDocumentMoniker": "GraphExamples\\Structures\\CircularBuffer.cs",
+              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Structures\\CircularBuffer.cs",
+              "RelativeToolTip": "GraphExamples\\Structures\\CircularBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T11:48:34.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "FrmBresenham.cs",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenham.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenham.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenham.cs",
               "RelativeToolTip": "GraphExamples\\Views\\FrmBresenham.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T22:01:05.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "FrmBresenham.cs [Design]",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmBresenham.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmBresenham.cs",
@@ -294,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "FrmADD.cs [Design]",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmADD.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmADD.cs",
@@ -306,13 +318,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "BaseFrm.Designer.cs",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\shared\\BaseFrm.Designer.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\shared\\BaseFrm.Designer.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\shared\\BaseFrm.Designer.cs",
               "RelativeToolTip": "GraphExamples\\Views\\shared\\BaseFrm.Designer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwLMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwJMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:44:47.28Z",
               "EditorCaption": ""
@@ -332,58 +344,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "BaseFrm.cs",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\shared\\BaseFrm.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\shared\\BaseFrm.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\shared\\BaseFrm.cs",
               "RelativeToolTip": "GraphExamples\\Views\\shared\\BaseFrm.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAnwDAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwEEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:39:53.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrmADD.Designer.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmADD.Designer.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmADD.Designer.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmADD.Designer.cs",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmADD.Designer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:33:35.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "FrmADD.cs",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmADD.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmADD.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmADD.cs",
               "RelativeToolTip": "GraphExamples\\Views\\FrmADD.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAewFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwD4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:33:33.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FrmMain.Designer.cs",
-              "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmMain.Designer.cs",
-              "RelativeDocumentMoniker": "GraphExamples\\Views\\FrmMain.Designer.cs",
-              "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmMain.Designer.cs",
-              "RelativeToolTip": "GraphExamples\\Views\\FrmMain.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:31:37.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "BaseFrm.cs [Design]",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\shared\\BaseFrm.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Views\\shared\\BaseFrm.cs",
@@ -395,13 +382,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Program.cs",
               "RelativeDocumentMoniker": "GraphExamples\\Program.cs",
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Program.cs",
               "RelativeToolTip": "GraphExamples\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:12:30.117Z",
               "EditorCaption": ""
@@ -415,7 +402,8 @@
               "ToolTip": "E:\\Development\\GraphComputer\\GraphExamples\\GraphExamples\\Views\\FrmMain.cs [Design]",
               "RelativeToolTip": "GraphExamples\\Views\\FrmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:11:50.002Z"
+              "WhenOpened": "2025-06-12T15:11:50.002Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

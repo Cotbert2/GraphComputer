@@ -32,27 +32,44 @@ namespace GraphExamples.Views.shared
         private void InitializeComponent()
         {
             this.panel2 = new System.Windows.Forms.Panel();
+            this.btnConfig = new FontAwesome.Sharp.IconButton();
             this.btnBack = new FontAwesome.Sharp.IconButton();
             this.lblTitle = new System.Windows.Forms.Label();
-            this.canvas = new System.Windows.Forms.PictureBox();
-            this.btnPlot = new FontAwesome.Sharp.IconButton();
-            this.btnReload = new FontAwesome.Sharp.IconButton();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.canvas = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnReload = new FontAwesome.Sharp.IconButton();
+            this.btnPlot = new FontAwesome.Sharp.IconButton();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.canvas)).BeginInit();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.canvas)).BeginInit();
             this.SuspendLayout();
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.Khaki;
+            this.panel2.Controls.Add(this.btnConfig);
             this.panel2.Controls.Add(this.btnBack);
             this.panel2.Controls.Add(this.lblTitle);
             this.panel2.Location = new System.Drawing.Point(-5, -7);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(915, 79);
             this.panel2.TabIndex = 2;
+            // 
+            // btnConfig
+            // 
+            this.btnConfig.BackColor = System.Drawing.Color.Gold;
+            this.btnConfig.IconChar = FontAwesome.Sharp.IconChar.Pencil;
+            this.btnConfig.IconColor = System.Drawing.Color.Black;
+            this.btnConfig.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnConfig.IconSize = 32;
+            this.btnConfig.Location = new System.Drawing.Point(830, 19);
+            this.btnConfig.Name = "btnConfig";
+            this.btnConfig.Size = new System.Drawing.Size(53, 52);
+            this.btnConfig.TabIndex = 4;
+            this.btnConfig.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnConfig.UseVisualStyleBackColor = false;
+            this.btnConfig.Click += new System.EventHandler(this.btnConfig_Click);
             // 
             // btnBack
             // 
@@ -73,11 +90,20 @@ namespace GraphExamples.Views.shared
             // 
             this.lblTitle.AutoSize = true;
             this.lblTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitle.Location = new System.Drawing.Point(355, 16);
+            this.lblTitle.Location = new System.Drawing.Point(152, 16);
             this.lblTitle.Name = "lblTitle";
             this.lblTitle.Size = new System.Drawing.Size(302, 54);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "Grapher App";
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.Black;
+            this.panel1.Controls.Add(this.canvas);
+            this.panel1.Location = new System.Drawing.Point(269, 87);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(583, 396);
+            this.panel1.TabIndex = 6;
             // 
             // canvas
             // 
@@ -88,23 +114,13 @@ namespace GraphExamples.Views.shared
             this.canvas.TabIndex = 4;
             this.canvas.TabStop = false;
             // 
-            // btnPlot
+            // label1
             // 
-            this.btnPlot.BackColor = System.Drawing.Color.Gold;
-            this.btnPlot.FlatAppearance.BorderSize = 0;
-            this.btnPlot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnPlot.IconChar = FontAwesome.Sharp.IconChar.Pen;
-            this.btnPlot.IconColor = System.Drawing.Color.Black;
-            this.btnPlot.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.btnPlot.IconSize = 24;
-            this.btnPlot.Location = new System.Drawing.Point(740, 502);
-            this.btnPlot.Name = "btnPlot";
-            this.btnPlot.Size = new System.Drawing.Size(95, 40);
-            this.btnPlot.TabIndex = 4;
-            this.btnPlot.Text = "PLOT";
-            this.btnPlot.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnPlot.UseVisualStyleBackColor = false;
-            this.btnPlot.Click += new System.EventHandler(this.btnPlot_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(46, 102);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 16);
+            this.label1.TabIndex = 7;
             // 
             // btnReload
             // 
@@ -124,22 +140,23 @@ namespace GraphExamples.Views.shared
             this.btnReload.UseVisualStyleBackColor = false;
             this.btnReload.Click += new System.EventHandler(this.btnReload_Click);
             // 
-            // panel1
+            // btnPlot
             // 
-            this.panel1.BackColor = System.Drawing.Color.Black;
-            this.panel1.Controls.Add(this.canvas);
-            this.panel1.Location = new System.Drawing.Point(269, 87);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(583, 396);
-            this.panel1.TabIndex = 6;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(46, 102);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(0, 16);
-            this.label1.TabIndex = 7;
+            this.btnPlot.BackColor = System.Drawing.Color.Gold;
+            this.btnPlot.FlatAppearance.BorderSize = 0;
+            this.btnPlot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnPlot.IconChar = FontAwesome.Sharp.IconChar.ChartLine;
+            this.btnPlot.IconColor = System.Drawing.Color.Black;
+            this.btnPlot.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnPlot.IconSize = 24;
+            this.btnPlot.Location = new System.Drawing.Point(740, 502);
+            this.btnPlot.Name = "btnPlot";
+            this.btnPlot.Size = new System.Drawing.Size(95, 40);
+            this.btnPlot.TabIndex = 4;
+            this.btnPlot.Text = "PLOT";
+            this.btnPlot.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnPlot.UseVisualStyleBackColor = false;
+            this.btnPlot.Click += new System.EventHandler(this.btnPlot_Click);
             // 
             // BaseFrm
             // 
@@ -161,8 +178,8 @@ namespace GraphExamples.Views.shared
             this.Load += new System.EventHandler(this.BaseFrm_Load);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.canvas)).EndInit();
             this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.canvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -178,5 +195,6 @@ namespace GraphExamples.Views.shared
         public FontAwesome.Sharp.IconButton btnReload;
         public Panel panel1;
         public Label label1;
+        public IconButton btnConfig;
     }
 }

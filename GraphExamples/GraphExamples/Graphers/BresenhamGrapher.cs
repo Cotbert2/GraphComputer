@@ -68,7 +68,7 @@ namespace GraphExamples.Graphers
             int centerX = canvas.Width / 2;
             int centerY = canvas.Height / 2;
 
-            Pen axisPen = new Pen(Color.LightGray, 1);
+            Pen axisPen = new Pen(Color.Black, 1);
             g.DrawLine(axisPen, 0, centerY, canvas.Width, centerY);
             g.DrawLine(axisPen, centerX, 0, centerX, canvas.Height);
 
@@ -77,7 +77,7 @@ namespace GraphExamples.Graphers
                 int screenX = centerX + p.X;
                 int screenY = centerY - p.Y;
 
-                g.FillRectangle(Brushes.Black, screenX, screenY, 1, 1);
+                g.FillRectangle(new SolidBrush(Config.Config.Instance.Color), screenX, screenY, 1, 1);
                 await Task.Delay(20);
             }
 
