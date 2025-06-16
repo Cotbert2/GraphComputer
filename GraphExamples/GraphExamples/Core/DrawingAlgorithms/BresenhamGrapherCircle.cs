@@ -15,7 +15,7 @@ namespace GraphExamples.Graphers
         {
             if (!int.TryParse(txtRadio.Text, out int radius) || radius <= 0 || radius > 180)
             {
-                MessageBox.Show("Por favor, ingrese un radio válido (entero positivo).");
+                MessageBox.Show("Insert a valid input");
                 return;
             }
 

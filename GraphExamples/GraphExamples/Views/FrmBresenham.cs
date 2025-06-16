@@ -25,6 +25,7 @@ namespace GraphExamples.Views
             canvas.MouseClick += canvas_MouseClick;
 
             btnPlot.Click += btnPlot_Click;
+            btnReload.Click += btn_Reload_Click;
         }
 
 
@@ -93,6 +94,14 @@ namespace GraphExamples.Views
 
         }
 
+        private void btn_Reload_Click(object sender, EventArgs e)
+        {
+            canvas.Refresh();
+            points = new CircularBuffer2<Point>();
+            updatePointFields();
+            txtNum.Text = "";
+            listPoints.Items.Clear();
 
-    }
+        }
+        }
 }

@@ -2,17 +2,23 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace GraphExamples.Graphers
 {
-    public class FillFloydGrapher
+    public class FillFloodGrapher
     {
         private int side;
         private Stack<(int x, int y)> stack;
         private PictureBox canvas;
+        private CancellationToken cancellationToken;
 
-        // Lista para almacenar los puntos coloreados
+        public void SetCancellationToken(CancellationToken token)
+        {
+            this.cancellationToken = token;
+        }
+
         private List<Point> filledPoints = new List<Point>();
         public IReadOnlyList<Point> FilledPoints => filledPoints;
 
@@ -22,7 +28,7 @@ namespace GraphExamples.Graphers
             {
                 this.canvas = canvas;
                 stack = new Stack<(int x, int y)>();
-                filledPoints.Clear(); // Limpiar lista cada vez que se reinicia
+                filledPoints.Clear();
 
                 if (canvas.Image == null)
                 {
@@ -55,13 +61,15 @@ namespace GraphExamples.Graphers
 
         public void Fill(int x, int y, Color currentColor)
         {
+            if (cancellationToken.IsCancellationRequested) return;
+
             Bitmap bmp = canvas.Image as Bitmap;
             if (bmp == null || x < 0 || x >= bmp.Width || y < 0 || y >= bmp.Height) return;
 
             if (bmp.GetPixel(x, y).ToArgb() != Color.White.ToArgb()) return;
 
             bmp.SetPixel(x, y, currentColor);
-            filledPoints.Add(new Point(x, y)); // Guardar el punto coloreado
+            filledPoints.Add(new Point(x, y));
 
             canvas.Invoke((MethodInvoker)(() =>
             {

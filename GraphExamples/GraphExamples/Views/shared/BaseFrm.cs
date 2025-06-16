@@ -42,6 +42,7 @@ namespace GraphExamples.Views.shared
         private void closeForm(object sender, FormClosingEventArgs e)
         {
             Application.Exit();
+            Environment.Exit(0);
         }
 
         private void btnReload_Click(object sender, EventArgs e)

@@ -63,13 +63,11 @@
     <Compile Include="Core\DrawingAlgorithms\DDAGrapher.cs" />
     <Compile Include="Core\DrawingAlgorithms\BresenhamGrapher.cs" />
     <Compile Include="Core\DrawingAlgorithms\BresenhamGrapherCircle.cs" />
-    <Compile Include="Core\DrawingAlgorithms\FillFloydGrapher.cs" />
+    <Compile Include="Core\DrawingAlgorithms\FillFloodGrapher.cs" />
     <Compile Include="Core\Utils\PolygonUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structures\CircularBuffer.cs" />
-    <Compile Include="Structures\CircularList.cs" />
-    <Compile Include="Structures\CircularNode.cs" />
     <Compile Include="Views\FrmDDA.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -18,6 +18,7 @@ namespace GraphExamples.Views
         {
             InitializeComponent();
             btnPlot.Click += btnPlot_Click;
+            btnReload.Click += btn_Reload_Click;
         }
 
         private BresenhamGrapherCircle bresenhamGrapherCircle = new BresenhamGrapherCircle();
@@ -31,6 +32,15 @@ namespace GraphExamples.Views
                 lbPoints.Items.Add($"({point.X}, {point.Y})");
             }
             txtPoints.Text = bresenhamGrapherCircle.GetPoints().Count.ToString();
+        }
+
+        private void btn_Reload_Click(object sender, EventArgs e)
+        {
+            canvas.Image = null;
+            lbPoints.Items.Clear();
+            txtPoints.Text = "0";
+            txtRadio.Text = string.Empty;
+            bresenhamGrapherCircle = new BresenhamGrapherCircle();
         }
     }
 }
