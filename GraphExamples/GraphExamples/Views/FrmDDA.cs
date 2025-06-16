@@ -15,13 +15,13 @@ using System.Windows.Forms;
 
 namespace GraphExamples.Views
 {
-    public partial class FrmADD : BaseFrm
+    public partial class FrmDDA : BaseFrm
     {
 
         private CircularBuffer2<Point> points = new CircularBuffer2<Point>();
-        private ADDGrapher addGrapher = new ADDGrapher();
+        private DDAGrapher ddaGrapher = new DDAGrapher();
 
-        public FrmADD() : base("ADD Line Drawer")
+        public FrmDDA() : base("DDA Line Drawer")
         {
             InitializeComponent();
             canvas.Paint += canvas_Paint;
@@ -59,13 +59,13 @@ namespace GraphExamples.Views
 
         private void btnPlot_Click(object sender, EventArgs e)
         {
-            addGrapher.ReadData(txtX1, txtY1, txtX2, txtY2);
-            addGrapher.DrawAsync(canvas);
+            ddaGrapher.ReadData(txtX1, txtY1, txtX2, txtY2);
+            ddaGrapher.DrawAsync(canvas);
 
             listPoints.Items.Clear();
             listPoints.Items.Add("N  X        Y");
             int index = 0;
-            foreach (var punto in addGrapher.GetPoints())
+            foreach (var punto in ddaGrapher.GetPoints())
             {
                 listPoints.Items.Add($"{index++}  ({punto.X}, {punto.Y})");
             }

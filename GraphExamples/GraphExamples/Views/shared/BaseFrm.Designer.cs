@@ -135,7 +135,7 @@ namespace GraphExamples.Views.shared
             this.btnReload.Name = "btnReload";
             this.btnReload.Size = new System.Drawing.Size(95, 40);
             this.btnReload.TabIndex = 5;
-            this.btnReload.Text = "Restart";
+            this.btnReload.Text = "Reset";
             this.btnReload.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnReload.UseVisualStyleBackColor = false;
             this.btnReload.Click += new System.EventHandler(this.btnReload_Click);

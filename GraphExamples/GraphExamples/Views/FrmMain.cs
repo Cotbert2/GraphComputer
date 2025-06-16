@@ -24,7 +24,7 @@ namespace GraphExamples.Views
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FrmADD frm = new FrmADD();
+            FrmDDA frm = new FrmDDA();
             frm.Show();
             this.Hide();
         }
@@ -50,7 +50,7 @@ namespace GraphExamples.Views
 
         private void button4_Click(object sender, EventArgs e)
         {
-            FrmADD frm = new FrmADD();
+            FrmDDA frm = new FrmDDA();
             frm.Show();
             this.Hide();
         }

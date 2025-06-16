@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace GraphExamples.Graphers
 {
-    public class ADDGrapher
+    public class DDAGrapher
     {
         private int x1, y1, x2, y2;
         private List<Point> points = new List<Point>();

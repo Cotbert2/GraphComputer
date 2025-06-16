@@ -2,7 +2,7 @@
 
 namespace GraphExamples.Views
 {
-    partial class FrmADD : BaseFrm
+    partial class FrmDDA : BaseFrm
     {
         /// <summary>
         /// Required designer variable.

@@ -60,21 +60,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config\Config.cs" />
-    <Compile Include="Graphers\ADDGrapher.cs" />
-    <Compile Include="Graphers\BresenhamGrapher.cs" />
-    <Compile Include="Graphers\BresenhamGrapherCircle.cs" />
-    <Compile Include="Graphers\FillFloydGrapher.cs" />
-    <Compile Include="Graphers\Utils\PolygonUtils.cs" />
+    <Compile Include="Core\DrawingAlgorithms\DDAGrapher.cs" />
+    <Compile Include="Core\DrawingAlgorithms\BresenhamGrapher.cs" />
+    <Compile Include="Core\DrawingAlgorithms\BresenhamGrapherCircle.cs" />
+    <Compile Include="Core\DrawingAlgorithms\FillFloydGrapher.cs" />
+    <Compile Include="Core\Utils\PolygonUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Structures\CircularBuffer.cs" />
     <Compile Include="Structures\CircularList.cs" />
     <Compile Include="Structures\CircularNode.cs" />
-    <Compile Include="Views\FrmADD.cs">
+    <Compile Include="Views\FrmDDA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Views\FrmADD.Designer.cs">
-      <DependentUpon>FrmADD.cs</DependentUpon>
+    <Compile Include="Views\FrmDDA.Designer.cs">
+      <DependentUpon>FrmDDA.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\FrmBresenham.cs">
       <SubType>Form</SubType>
@@ -116,8 +116,8 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Views\FrmADD.resx">
-      <DependentUpon>FrmADD.cs</DependentUpon>
+    <EmbeddedResource Include="Views\FrmDDA.resx">
+      <DependentUpon>FrmDDA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmBresenham.resx">
       <DependentUpon>FrmBresenham.cs</DependentUpon>
